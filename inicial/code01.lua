@@ -12,4 +12,4 @@ print(texto)
 -- Concatenando variaveis
 questao = "Qual país você mora: "
 resposta = "Brasil"
-print(questao + brasil)
+print(questao + resposta)
